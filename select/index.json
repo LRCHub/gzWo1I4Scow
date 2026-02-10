@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "The Boys",
+  "base_artist": "Girls' Generation",
+  "createdAt": "2026-02-10T20:35:16.036488Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crackin’ Cold Ones With the Boys",
+      "artist": "The Cadillac Three",
+      "has_synced": true,
+      "path": "select/01_Crackin’_Cold_Ones_With_the_Boys_The_Cadillac_Three.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Boys We Were (feat. Colter Wall)",
+      "artist": "Wade Sapp",
+      "has_synced": true,
+      "path": "select/02_The_Boys_We_Were_(feat._Colter_Wall)_Wade_Sapp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Boys We Were",
+      "artist": "Wade Sapp",
+      "has_synced": true,
+      "path": "select/03_The_Boys_We_Were_Wade_Sapp.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bring the Boys Back Home",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/04_Bring_the_Boys_Back_Home_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Boys",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/05_The_Boys_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Boys (English Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/06_The_Boys_(English_Ver.)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Boys - Japanese ver.",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/07_The_Boys_-_Japanese_ver._Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Boys (JAPANESE ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/08_The_Boys_(JAPANESE_ver.)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Boys (Japanese Version)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/09_The_Boys_(Japanese_Version)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Boys (Japanese ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/10_The_Boys_(Japanese_ver.)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Boys Are Back In Town",
+      "artist": "Yung Gravy",
+      "has_synced": true,
+      "path": "select/11_The_Boys_Are_Back_In_Town_Yung_Gravy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Boys are Back In Town (feat. Pouya, Ramirez & Trippythakid)",
+      "artist": "Yung Gravy",
+      "has_synced": true,
+      "path": "select/12_The_Boys_are_Back_In_Town_(feat._Pouya,_Ramirez_&_Trippythakid)_Yung_Gravy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lost U 2 the Boys",
+      "artist": "Liz",
+      "has_synced": true,
+      "path": "select/13_Lost_U_2_the_Boys_Liz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Boys",
+      "artist": "Nicki Minaj feat. Cassie",
+      "has_synced": true,
+      "path": "select/14_The_Boys_Nicki_Minaj_feat._Cassie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Boys - Bonus Track",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/15_The_Boys_-_Bonus_Track_Keane.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Boys (Bonus Track)",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/16_The_Boys_(Bonus_Track)_Keane.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Where Do the Boys Go?",
+      "artist": "Men Without Hats",
+      "has_synced": true,
+      "path": "select/17_Where_Do_the_Boys_Go_Men_Without_Hats.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Where Do The Boys Go",
+      "artist": "Men Without Hats",
+      "has_synced": true,
+      "path": "select/18_Where_Do_The_Boys_Go_Men_Without_Hats.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Where Do the Boys Go (Extended Version)",
+      "artist": "Men Without Hats",
+      "has_synced": true,
+      "path": "select/19_Where_Do_the_Boys_Go_(Extended_Version)_Men_Without_Hats.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Boys",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_01_The_Boys_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "The Boys",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_02_The_Boys_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "The boys",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_03_The_boys_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "The Boys",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_04_The_Boys_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "The Boys",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_05_The_Boys_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "The Boys",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_06_The_Boys_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "The Boys",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_07_The_Boys_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "The Boys",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_08_The_Boys_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "The Boys",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_09_The_Boys_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "The Boys (日本語)",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_10_The_Boys_(日本語)_少女時代.txt"
+    }
+  ]
+}
